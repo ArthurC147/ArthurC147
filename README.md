@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Arthur Cardoso 👋</h1>
 <p align="center">
-  <strong>Industrial Engineering Student · Data & Business Operations Analyst</strong><br>
+  <strong>Industrial Engineering Student · Data & Business Operations </strong><br>
   <sub>Universidade Federal do Paraná (UFPR) · Curitiba, Brazil · Expected Dec 2026</sub>
 </p>
 <p align="center">
