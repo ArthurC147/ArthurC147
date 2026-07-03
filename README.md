@@ -94,13 +94,6 @@ RepositoryDescriptionStackkpi-operations-pipelineAutomated pipeline for Customer
   </tr>
 </table>
 
-📊 GitHub Stats
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ArthurC147&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&hide_title=false"/>
-  &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurC147&layout=compact&theme=default&hide_border=true&langs_count=6"/>
-</p>
 
 🔨 Currently working on
 
@@ -112,7 +105,7 @@ Deepening SQL: window functions, CTEs, and query optimization for banking/fintec
 
 
 <p align="center">
-  <i>Open to internships, trainee programs, and junior roles in Analytics, Banking/Fintech, and PMO.</i><br><br>
+  <i>Open to internships, trainee programs, and junior roles in Analytics, Banking/Fintech, and Project Management.</i><br><br>
   <b>Let's connect →</b>
   <a href="https://linkedin.com/in/arthur-cardoso-b3b1ba1ab">LinkedIn</a> &nbsp;·&nbsp; arthurcardoso147@gmail.com
 </p>
