@@ -131,9 +131,10 @@ I work mostly in Python, SQL, and Power BI. C1 English. Looking for roles in Ana
 🔨 Currently working on
 
 Preparing for PL-300 Power BI, Google Data Analytics, and CPA (ANBIMA)
+  </tr>
 Deepening SQL: window functions, CTEs, and query optimization for banking/fintech roles
-
-
+  </tr>
+  </td>
 
 <p align="center">
   <i>Open to internships, trainee programs, and junior roles in Analytics, Banking/Fintech, and Project Management.</i><br><br>
